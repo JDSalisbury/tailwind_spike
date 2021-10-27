@@ -84,7 +84,7 @@ function App() {
                 <p>Would you like to know more?</p>
                 <p>
                   <a
-                    href="mailto:usersignup@steakbutt.io"
+                    href="mailto:buttchew@gmail.com"
                     class="text-cyan-600 hover:text-cyan-700"
                   >
                     {" "}
