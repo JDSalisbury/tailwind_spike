@@ -7,6 +7,13 @@
   background-size: cover;
 }
 
+.bg-img-minor {
+  background-image: url(./kisspng-quetzalcoatlus-pterosaurs-pteranodon-flight-late-c-flying-dinosaurs-pictures-5aaeb2986122f6.2046106215213984243979.png) !important;
+  background-size: 150px !important;
+  background: no-repeat;
+  background-position-x: right;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
