@@ -86,7 +86,7 @@ function Team() {
           <p>
             <Link class="text-cyan-600 hover:text-cyan-700" to="/">
               {" "}
-              Back &larr;{" "}
+              &larr; Back{" "}
             </Link>
           </p>
         </div>
